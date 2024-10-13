@@ -1,0 +1,35 @@
+.footer {
+    background-color: #001a4c;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+    position: relative;
+    top: 95px;
+    width: 100%;
+}
+
+.footer h5 {
+    margin-bottom: 20px;
+}
+
+.footer p,
+.footer ul,
+.footer li {
+    font-size: 14px;
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer i {
+    margin-right: 10px;
+}
+
+.footer .text-center p {
+    margin-bottom: 0;
+}
